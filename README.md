@@ -1,6 +1,8 @@
 Chatbot for Business, Startups, Senior Project, and Investment Data
-This is a chatbot that answers questions related to business, startups, senior project, and investment data. The chatbot was built using the following libraries:
+This is the back end part of a chatbot that answers questions related to business, startups, senior project, and investment data. The chatbot was built using the following libraries:
+based on Flask Library to make a local host for the front end part
 
+flask
 numpy
 json
 random
@@ -8,6 +10,7 @@ nltk
 pytorch
 torch.nn
 torch
+
 The chatbot was trained on a dataset of business, startups, senior project, and investment data using pytorch. The training data was preprocessed and tokenized using nltk. The neural network model was built using torch.nn, and the optimization and backpropagation were handled using the pytorch framework.
 
 Installation
