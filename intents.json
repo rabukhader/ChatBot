@@ -18,26 +18,54 @@
         "Hi there, what can I do for you?",
         "Hi there, how can I help?",
         "Nice to meet you",
-        "Hi, how can I assist you today?"
+        "Hi, how can I assist you today?",
+        "Welcome"
       ]
     },
     {
-      "tag": "senior_project",
+      "tag": "Defining senior_project",
       "patterns": [
+        "Define Senior project",
         "What is a senior project?",
-        "How do I choose a senior project?",
-        "What are some examples of senior projects?",
-        "How do I get started on my senior project?",
-        "What are the requirements for a senior project?",
-        "How do I present my senior project?"
+        "Talk about senior project",
+        "Can you explain the concept of a senior project?",
+        "Senior project ?"
       ],
       "responses": [
         "A senior project is a capstone project that students undertake during their final year of study. It allows them to apply the knowledge and skills they have acquired throughout their degree program to a real-world problem or project.",
-        "Choosing a senior project can be a challenging task. You should select a project that aligns with your interests, skills, and career goals. You may also want to consider working on a project that has practical applications or that addresses a real-world need.",
         "Senior projects can take many forms, depending on your field of study. Some examples include developing a new product, conducting research, creating a piece of art or music, or designing a software application.",
+        "A senior project is a substantial academic or professional undertaking completed by students in their final year, showcasing their skills and knowledge in a particular field.",
+        "A senior project is a culmination of a student's academic journey, typically completed in the final year, demonstrating their expertise and application of knowledge in a specific area.",
+        "A senior project is a capstone experience undertaken by students in their final year, where they apply their acquired knowledge and skills to complete a comprehensive project in their field of study.",
+        "A senior project is a culminating endeavor undertaken by students nearing the end of their academic journey, allowing them to showcase their expertise through a significant project or research undertaking in their chosen field."
+      ]
+    },
+    {
+      "tag": "Choosing senior project",
+      "patterns":[
+        "How do I choose a senior project?",
+        "what are the considerations i should keep in mind when selecting a senior project?",
+        "How i can choose my senior project?"
+        
+      ],
+      "responses":[
+        "Choosing a senior project can be a challenging task. You should select a project that aligns with your interests, skills, and career goals. You may also want to consider working on a project that has practical applications or that addresses a real-world need.",
+        "To choose your senior project, reflect on your interests, research potential ideas, assess feasibility, and define clear goals and objectives.",
+        "To select your senior project, explore your passions, research potential ideas, evaluate feasibility, and establish clear objectives.",
+        "To decide on your senior project, consider your interests, conduct research, assess feasibility, set goals, and choose a topic that aligns with your academic and career aspirations."
+      ]
+    },
+    {
+      "tag": "examples on senior projects",
+      "patterns": [
+        "give me some examples of senior projects?",
+        "examples on senior project ?",
+        "What are the requirements for a senior project?",
+        "How do I get started on my senior project?"
+      ],
+      "responses": [
         "To get started on your senior project, you should first identify a topic or problem that you want to address. You should then conduct research, develop a project plan, and gather any necessary resources or materials.",
-        "The requirements for a senior project may vary depending on your program and field of study. Generally, you will be expected to complete a significant project or research paper, and you may also need to give a presentation or defend your work to a panel of faculty members.",
-        "Presenting your senior project is an important part of the process. You should prepare a clear and concise presentation that highlights your project's key findings or accomplishments. You may also want to practice your presentation in front of friends or family members to get feedback."
+        "The requirements for a senior project may vary depending on your program and field of study. Generally, you will be expected to complete a significant project or research paper, and you may also need to give a presentation or defend your work to a panel of faculty members."
       ]
     },    
     {
@@ -652,13 +680,15 @@
           "What's your name?",
           "Who are you?",
           "Tell me about yourself",
-          "What do you do?"
+          "What do you do?",
+          "Define yourself",
+          "Talk about yourself"
         ],
         "responses": [
-          "I'm a chatbot designed to help you with various topics. My name is ChatGPT.",
-          "I'm ChatGPT, a chatbot that can help you with a variety of topics.",
-          "I'm a language model developed by OpenAI called ChatGPT. I'm here to assist you with your queries.",
-          "I am ChatGPT, a language model designed to help you with your queries. How can I assist you?"
+          "I'm a chatbot designed to help you with various topics. My name is Qubtan.",
+          "I'm Qubtan, a chatbot that can help you with a variety of topics.",
+          "I'm Qubtan, a language model. I'm here to assist you with your queries.",
+          "I am Qubtan, a language model designed to help you with your queries. How can I assist you?"
         ]
       },  
       {
