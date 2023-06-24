@@ -31,6 +31,9 @@ $ python chatbot.py
 Ask me a question: What is a startup?
 A startup is a company or project in its early stages of development, typically characterized by a new and innovative product or service.
 
+If you want to run the flask server and connect the API with front end part 
+=> onn the terminal 
+  python app.py 
 
 Data
 The training data used for the chatbot was sourced from business, startups, senior project, and investment data. The data was preprocessed and tokenized using nltk, and then it was used to train a neural network model using pytorch.
